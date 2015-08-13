@@ -1,5 +1,6 @@
 com.vk.sdk
 com.vk.sdk.api
+com.vk.sdk.api.docs
 com.vk.sdk.api.httpClient
 com.vk.sdk.api.methods
 com.vk.sdk.api.model
