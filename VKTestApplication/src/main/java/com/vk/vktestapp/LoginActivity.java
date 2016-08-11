@@ -33,6 +33,7 @@ public class LoginActivity extends FragmentActivity {
             VKScope.PHOTOS,
             VKScope.NOHTTPS,
             VKScope.MESSAGES,
+            VKScope.EMAIL,
             VKScope.DOCS
     };
 
